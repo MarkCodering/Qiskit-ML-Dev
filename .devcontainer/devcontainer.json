@@ -1,0 +1,13 @@
+{
+  "name": "Qiskit-ML Dev Container",
+  "dockerFile": "Dockerfile",
+  "forwardPorts": [80],
+  "remoteUser": "root",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+      }
+    }
+  }
+}
