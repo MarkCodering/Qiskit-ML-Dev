@@ -1,3 +1,6 @@
 numpy
 matplotlib 
 IPython
+qiskit-terra==0.22.2
+qiskit-aer==0.11.1
+qiskit-machine-learning==0.6.0
