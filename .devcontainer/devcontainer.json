@@ -1,0 +1,12 @@
+{
+    "name": "Python 3.8 Dev Container",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "python.pythonPath": "/usr/local/bin/python",
+        "python.linting.enabled": true,
+        "python.linting.pylintEnabled": true
+    },
+    "extensions": [
+        "ms-python.python"
+    ]
+}
